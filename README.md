@@ -11,8 +11,3 @@
 - [Python Project](#Python_Project)
 - [Tableau Project](#Tableau_Project)
 
-### Excel Project 
-### SQL Project
-### Power Bi Project
-### Python Project
-### Tableau Project
