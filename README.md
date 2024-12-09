@@ -6,11 +6,11 @@
 # Data Analyst Project
 ## Table Of Contents
 - [Excel Project](#Excel_Project)
-- [Sql Project](#Sql_Project)
+- [SQL Project](#Sql_Project)
 - [Power Bi Project](#PowerBi_Project)
 - [Python Project](#Python_Project)
 
 ### Excel Project 
-### Sql Project
+### SQL Project
 ### Power Bi Project
 ### Python Project
