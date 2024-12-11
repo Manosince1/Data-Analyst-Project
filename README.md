@@ -1,6 +1,6 @@
 # About Me
-- Graduated a Bachelor Degree in Security Analysis I'm Highly motivated and detail-oriented Entry Level Cyber Security Professional with a passion for protecting  sensitive data and mitigating cyber threats. Skilled in conducting security audits, vulnerability scans,  implementing security controls to ensure compliance with industry standards and Build a Network architecture For a Local Area Network.
-- Possesses an Associate Degree in Computer Science with skills in software developer/Data analyst with skills in Excel, Python, Tableau, Power Bi, Sql, HTML,Full Stack Java developper(React, Angular, Spring Boot),PHP Laravel. I love working with computers. I also have a strong skill in Business System Analysis.
+- Graduated a Bachelor Degree in Security Analysis I'm Highly motivated and detail-oriented Entry Level Cyber Security Professional with a passion for protecting  sensitive data and mitigating cyber threats. Skilled in conducting security audits, vulnerability scans, and  implementing security controls to ensure compliance with industry standards.
+- Possesses an Associate Degree in Computer Science with skills in Software Developer/Data analyst with skills in Excel, Python, Tableau, Power Bi, SQL, HTML, Full Stack Java developer (React, Angular, Spring Boot), PHP Laravel. I love working with computers. I also have a strong skill in Business System Analysis.
 - I am energetic, a team player and someone who will work hard to learn. I have exceptional eye for computer, hardware, and software issues. I consider myself a social person who love to work in team.
 
 # Data Analyst Project
