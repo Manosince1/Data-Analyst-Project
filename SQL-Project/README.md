@@ -1,6 +1,6 @@
 
 
-# RODAMAP SQL FOR DATA ANALYST
+# ROADMAP SQL FOR DATA ANALYST
 📚 SQL pour les data analysts
 📕 SQL Débutant
 Topics:
