@@ -1,2 +1,2 @@
-![Amazonscreenshot](https://github.com/user-attachments/assets/58803647-d0ce-49a5-88e8-c6c1c5253320)
+![Amazonscreenshot](https://github.com/user-attachments/assets/750ccdab-4401-4fd9-b5ae-a058baf78d7f)
 
