@@ -12,3 +12,9 @@
 
 ![DashbordScreenshot1](https://github.com/user-attachments/assets/dca3e8f7-7692-4707-840c-a4c79814d869)
 
+### Pivot Table Data
+![PivotTableScreenshot](https://github.com/user-attachments/assets/a72a2041-85c6-4766-8656-2452efc6f89d)
+
+### Dashbord Data
+![DashbordScreenshot](https://github.com/user-attachments/assets/eb4daaf5-bca5-4cb6-b302-5071d5ae0d94)
+
