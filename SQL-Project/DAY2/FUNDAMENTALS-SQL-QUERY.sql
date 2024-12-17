@@ -88,8 +88,8 @@ WHERE condition;
         Products; 
 
 -- QUESTION: List of products sold is > 200
-          SELECT *
-          FROM Products
+         SELECT *
+         FROM Products
          WHERE UnitPrice>200;
 
 -- QUESTION: List of products sold is <= 200
